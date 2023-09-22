@@ -160,7 +160,6 @@ async function get_user_appointments_from_database(clienteId) {
 }
 
 
-// Resto de tus rutas...
 
 const PORT = 5000;
 app.listen(PORT, () => {
